@@ -1,0 +1,25 @@
+{
+  "name": "web-anarquia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch src/styles/styles.scss:src/css/style.min.css --style compressed",
+    "sass-build": "sass src/styles/styles.scss:src/css/style.min.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagofranchin/web-anarquia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagofranchin/web-anarquia/issues"
+  },
+  "homepage": "https://github.com/thiagofranchin/web-anarquia#readme",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.57.0"
+  }
+}
