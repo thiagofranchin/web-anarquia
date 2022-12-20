@@ -1,7 +1,4 @@
 @import './partials/colors';
 @import '../../node_modules/bootstrap/scss/bootstrap';
+@import './pages/home';
 
-body {
-  background-color: $dark;
-  color: #fff
-}

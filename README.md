@@ -9,3 +9,7 @@ Run to build
 ```bash
 npm run sass-build
 ```
+
+___
+## Icons 
+[Fontawesome](https://fontawesome.com/icons/)
