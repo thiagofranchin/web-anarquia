@@ -1,6 +1,6 @@
 # Tutorias Incríveis
 
-## [website](https://tutoriais-incriveis.netlify.app/)
+## [website](https://rebordose.netlify.app/)
 
 ___
 ## Commands
